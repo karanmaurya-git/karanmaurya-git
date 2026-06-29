@@ -1,11 +1,18 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Karan Maurya</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Developer | Java Developer | Problem Solver</h3>
+<h3 align="center">🚀 Full Stack(MERN) Developer | DSA | Problem Solver</h3>
+<div align="center">
+
+  <img src="./assets/coding.gif"alt="Coding Animation"width="100%" />
+
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
 <p align="center">
   <a href="https://linktr.ee/karanmaurya">
-    <img src="https://img.shields.io/badge/🌐%20All%20Projects-Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+    <img src="https://img.shields.io/badge/%20All%20Projects-Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/karan-maurya-4260b6293/">
@@ -22,25 +29,69 @@
   🔗 <a href="https://linktr.ee/karanmaurya">linktr.ee/karanmaurya</a>
 </p>
 
-<p align="center">
-  <img src="./assets/banner1.gif" width="100%" alt="Karan Maurya Dynamic Banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
-</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 * 🚀 **Passionate Full Stack Developer** building scalable web applications.
-* 💻 **Skilled in** Java, JavaScript, TypeScript, React.js, Node.js, Express.js & Databases.
+* 💻 **Skilled in** JavaScript, TypeScript, React.js, Node.js, Express.js & Databases.
 * 🌱 **Currently learning** Advanced Backend Development, System Design & Software Engineering.
 * 🧠 **Solving Data Structures & Algorithms** on LeetCode, Codeforces, AtCoder & GeeksforGeeks.
 * 🚀 **Love building** production-ready projects with clean architecture.
 * 🎯 **Goal:** Become a Software Engineer and contribute to impactful products.
 * 📫 **Reach me at:** karanmaurya8998@gmail.com
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/karan-maurya-4260b6293/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://linktr.ee/karanmaurya" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/linktree/39E09B" alt="Linktree" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/TheK2/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/the_k2" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+</a>
+
+<a href="https://codeforces.com/profile/TheK2" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" alt="Codeforces" height="30" width="40" />
+</a>
+
+<a href="https://www.codechef.com/users/thek2" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/thek2" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+</a>
+
+<a href="https://codolio.com/profile/TheK2" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/codio/ffffff" alt="Codolio" height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/imthek2/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+
+---
+
+## 🌐 All Projects here
+
+<p align="center">
+  <b>🚀 Explore all my Live Projects, GitHub Repositories & Social Profiles</b><br>
+  🔗 <a href="https://linktr.ee/karanmaurya">linktr.ee/karanmaurya</a>
+</p>
 
 ---
 
@@ -52,18 +103,6 @@
 
 ---
 
-## 💻 Coding Profiles
-
-| Platform | Profile Link |
-| :--- | :--- |
-| 🔴 **LeetCode** | [leetcode.com/u/TheK2](https://leetcode.com/u/TheK2/) |
-| 🟤 **CodeChef** | [codechef.com/users/thek2](https://www.codechef.com/users/thek2) |
-| 🔵 **Codeforces** | [codeforces.com/profile/TheK2](https://codeforces.com/profile/TheK2) |
-| 🔴 **AtCoder** | [atcoder.jp/users/TheK2](https://atcoder.jp/users/TheK2) |
-| 🟢 **HackerRank** | [hackerrank.com/profile/the_k2](https://www.hackerrank.com/profile/the_k2) |
-| 🟢 **GeeksforGeeks** | [geeksforgeeks.org/profile/thek2](https://www.geeksforgeeks.org/profile/thek2) |
-
----
 
 ## 🚀 Featured Projects
 
