@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ## 🌐 Explore all my Live Projects:
 
 <a href="https://linktr.ee/karanmaurya" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/linktree/39E09B" alt="Linktree" height="30" width="40" />
+  <img align="center" src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="karanmaurya" height="30" />
 </a>
 
 ---
