@@ -170,7 +170,7 @@ A real-time multiplayer Tic-Tac-Toe game with shared rooms, live sync, and respo
 
 ---
 
-<p align="right">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=karanmaurya-git&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -178,7 +178,9 @@ A real-time multiplayer Tic-Tac-Toe game with shared rooms, live sync, and respo
 
 ## ✨ Quote:
 
-> "Turning ideas into scalable solutions through code."
+<p align="center">
+  <i>"Turning ideas into scalable solutions through code."</i>
+</p>
 
 ---
 
