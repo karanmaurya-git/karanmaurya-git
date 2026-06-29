@@ -33,7 +33,7 @@
 </a>
 
 <a href="https://github.com/karanmaurya-git" target="blank">
-  <img align="center" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" height="30" width="40" />
 </a>
 
 <a href="https://leetcode.com/u/TheK2/" target="blank">
@@ -41,7 +41,7 @@
 </a>
 
 <a href="https://x.com/im_thek2" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/x/ffffff" alt="X (Twitter)" height="30" width="40" />
 </a>
 
 <a href="https://www.instagram.com/imthek2/" target="blank">
