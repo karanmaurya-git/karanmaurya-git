@@ -68,15 +68,14 @@
 
 ## 🌐 🚀 Explore all my Live Projects 
 
-<p align="center">
-  🔗[Linktree Profile](https://linktr.ee/karanmaurya).
-</p>
-
+<a href="https://linktr.ee/karanmaurya" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/linktree/39E09B" alt="Linktree" height="30" width="40" />
+</a>
 
 ---
 
 ## 🛠️ Tech Stack
-
+~
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,mongodb,mysql,postgres,py,html,css,tailwind,git,github,postman,vscode"/>
 </p>
